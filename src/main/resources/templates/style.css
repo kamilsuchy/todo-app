@@ -1,0 +1,24 @@
+html {
+    font-size: 62.5% !important;
+    background: #7ed56f !important;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+.legend{
+    text-transform: uppercase;
+}
+button{
+    text-transform: uppercase;
+    border-radius: 100px;
+}
+.form-box{
+
+    text-align: center;
+}
+.head{
+    margin-top: 5rem;
+    padding: 1rem;
+    text-align: center;
+}
