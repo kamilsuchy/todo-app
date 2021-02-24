@@ -1,4 +1,4 @@
-#TODO application
+# TODO application
 
 Simple todo-application for storing projects or groups of tasks
 
@@ -10,5 +10,5 @@ Simple todo-application for storing projects or groups of tasks
 * Thymeleaf
 * CSS animation
 
-###Styling on the main page
+### Styling on the main page
 ![caption](main-page.gif)
